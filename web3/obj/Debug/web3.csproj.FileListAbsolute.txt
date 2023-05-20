@@ -1,0 +1,6 @@
+/home/luisfelipe/Projects/web3/web3/bin/web3.dll
+/home/luisfelipe/Projects/web3/web3/bin/web3.pdb
+/home/luisfelipe/Projects/web3/web3/obj/Debug/web3.csproj.AssemblyReference.cache
+/home/luisfelipe/Projects/web3/web3/obj/Debug/web3.csproj.CoreCompileInputs.cache
+/home/luisfelipe/Projects/web3/web3/obj/Debug/web3.dll
+/home/luisfelipe/Projects/web3/web3/obj/Debug/web3.pdb
