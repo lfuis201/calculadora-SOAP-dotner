@@ -1,22 +1,14 @@
 ﻿<Properties StartupConfiguration="{C431ABA9-0DD1-45E0-A371-C59D5CB28547}|">
   <MonoDevelop.Ide.ItemProperties.web3 PreferredExecutionTarget="mousepad" />
   <MonoDevelop.Ide.ItemProperties.web3.Tests FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="web3/Default.aspx.cs">
-    <Files>
-      <File FileName="web3/web3.asmx" Line="1" Column="1" />
-      <File FileName="web3/web3.asmx.cs" Line="43" Column="1" />
-      <File FileName="web3/Default.aspx" Line="7" Column="7" />
-      <File FileName="web3/Default.aspx.cs" Line="10" Column="8" />
-    </Files>
+  <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="web3" expanded="True">
             <Node name="web3" expanded="True">
-              <Node name="Default.aspx" expanded="True">
-                <Node name="Default.aspx.cs" selected="True" />
-              </Node>
-              <Node name="web3.asmx" expanded="True" />
+              <Node name="Default.aspx" expanded="True" />
+              <Node name="web3.asmx" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>
